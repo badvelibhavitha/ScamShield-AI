@@ -1,0 +1,22 @@
+{
+    "dataset_rows": 17880,
+    "training_rows": 14304,
+    "testing_rows": 3576,
+    "genuine_rows": 17014,
+    "fraudulent_rows": 866,
+    "accuracy": 0.9916107382550335,
+    "fraud_precision": 0.9281437125748503,
+    "fraud_recall": 0.8959537572254336,
+    "fraud_f1_score": 0.9117647058823529,
+    "average_precision": 0.9528696703203271,
+    "confusion_matrix": [
+        [
+            3391,
+            12
+        ],
+        [
+            18,
+            155
+        ]
+    ]
+}
